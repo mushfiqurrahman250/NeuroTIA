@@ -226,18 +226,6 @@ The original documentation identifies runs **04, 08, and 12** for left/right mot
 2. Song, Y., et al. EEG Conformer: Convolutional Transformer for EEG decoding and visualization. [DOI: 10.1109/TNSRE.2022.3230250](https://doi.org/10.1109/TNSRE.2022.3230250).
 3. Zanini, P., et al. Transfer learning: A Riemannian geometry framework with applications to brain–computer interfaces. [DOI: 10.1109/TBME.2017.2742541](https://doi.org/10.1109/TBME.2017.2742541).
 
-## 🤝 Provenance and responsible reuse
 
-This README is a **redesigned documentation adaptation** of [polashdas040/NeuroTIA](https://github.com/polashdas040/NeuroTIA), preserving the source project's reported methodology, results, limitations and attribution. The original author(s) retain credit for the underlying work. If you fork or redistribute the implementation, verify applicable permissions and add a precise statement of **your own contributions**; rewriting the README does not transfer authorship or code rights.
-
-> **Disclaimer:** This is an experimental EEG/BCI research project, not a clinical diagnostic or medical decision-making system.
-
----
-
-<div align="center">
-
-**NeuroTIA** · Compact neural decoding · Transparent evaluation · Reproducible research
-
-[Original source and project history](https://github.com/polashdas040/NeuroTIA) · [Interactive demonstration](https://polashdas040.github.io/NeuroTIA/)
 
 </div>
